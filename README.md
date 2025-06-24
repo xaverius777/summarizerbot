@@ -1,5 +1,4 @@
-# 🧠 Summarizerbot - A document summarization agent
-
+# 🧠 Summarizerbot - An LLM-Powered Document Summarizer, Searcher, and Chatbot
 A modular AI-powered agent built in Python that, given a directory with documents:
 
 - Performs extractive and abstractive summarization on the documents, with customizable length.
